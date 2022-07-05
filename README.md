@@ -1,7 +1,7 @@
 ### Hi there 👋
 - :feelsgood: My name is Maximilian
 - :muscle: I'm a web-developer 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript, VueJS
 - 💬 Ask me about Python, Django, React
 - 📫 How to reach me: telegram - @Ascurse
 

@@ -2,7 +2,7 @@
 - :feelsgood: My name is Maximilian
 - :muscle: I'm a web-developer 
 - 🌱 I’m currently learning ThreeJS
-- 💬 Ask me about Python, Django, React, NextJS, Typescript, VueJS
+- 💬 Ask me about React, NextJS, Typescript, VueJS, Python
 - 📫 How to reach me: telegram - @Ascurse
 
 [![Ascurse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ascurse)](https://github.com/Ascurse/github-readme-stats)
